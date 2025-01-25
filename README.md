@@ -1,3 +1,8 @@
 # Project-Missense
 
-# Background
+# Front end:
+
+# Backend:
+
+# Learning Model:
+
